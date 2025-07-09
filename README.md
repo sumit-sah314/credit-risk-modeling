@@ -27,8 +27,7 @@ Live App: https://credit-risk-modeling-zcog5pbrc3gshwhu2u35bp.streamlit.app/
 
 Clone the Repository:
 
-git clone https://github.com/YOUR_USERNAME/credit-risk-modeling.git
-cd credit-risk-modeling
+git clone https://github.com/sumit-sah314/credit-risk-modeling.git
 
 Install Dependencies:
 
